@@ -1,0 +1,6 @@
+this.opacity=1
+this.top=True
+this.handlebar=True
+that.opacity=1
+that.top=True
+that.handlebar=True
